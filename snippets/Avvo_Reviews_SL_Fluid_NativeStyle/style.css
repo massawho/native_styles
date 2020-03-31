@@ -1,0 +1,103 @@
+/*! CSS Used from: Embedded */
+svg:not(:root).svg-inline--fa{overflow:visible;}
+.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-0.125em;}
+/*! CSS Used from: Embedded */
+svg:not(:root).svg-inline--fa{overflow:visible;}
+.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em;}
+/*! CSS Used from: https://c4c.jakotako.com/profiles/assets/application-69d48677faf1f26d90c955b499d7e1a9a236680682dc9141f47047d62f29234a.css ; media=all */
+@media all{
+a{background:transparent;}
+a:active,a:hover{outline:0;}
+img{border:0;}
+svg:not(:root){overflow:hidden;}
+button{color:inherit;font:inherit;margin:0;}
+button{overflow:visible;}
+button{text-transform:none;}
+button{-webkit-appearance:button;cursor:pointer;}
+button::-moz-focus-inner{border:0;padding:0;}
+a{background:transparent;}
+a:active,a:hover{outline:0;}
+img{border:0;}
+svg:not(:root){overflow:hidden;}
+button{color:inherit;font:inherit;margin:0;}
+button{overflow:visible;}
+button{text-transform:none;}
+button{-webkit-appearance:button;cursor:pointer;}
+button::-moz-focus-inner{border:0;padding:0;}
+button{border-radius:0;}
+button{font-family:inherit;font-size:inherit;line-height:inherit;}
+img{vertical-align:middle;}
+@media print{
+*{text-shadow:none!important;color:black!important;background:transparent!important;box-shadow:none!important;}
+a,a:visited{text-decoration:underline;}
+a[href]::after{content:" (" attr(href) ")";}
+img{page-break-inside:avoid;}
+img{max-width:100%!important;}
+p{orphans:3;widows:3;}
+}
+*{box-sizing:border-box;}
+*::before,*::after{box-sizing:border-box;}
+p{overflow-wrap:break-word;word-wrap:break-word;word-break:break-word;margin:0 0 0.75em;}
+.strong{font-weight:700;}
+.h1{margin-bottom:1.2rem;font-weight:700;color:inherit;}
+.h1{margin-top:2.4rem;}
+.h1{font-family:"Circular", Avenir Next, Avenir, Century Gothic, sans-serif;font-size:1.375em;font-weight:500;line-height:1.3636363636;}
+@media (min-width: 650px){
+.h1{font-size:1.75em;line-height:1.2857142857;}
+}
+.text-muted{opacity:0.7;}
+a{color:#008CC9;overflow-wrap:break-word;word-wrap:break-word;word-break:break-word;text-decoration:none;}
+a:hover{color:#00577d;}
+a:active{color:black;}
+a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
+ul{margin-top:0;margin-bottom:0.75em;}
+.row{margin-left:-1.2rem;margin-right:-1.2rem;}
+.row::before,.row::after{content:' ';display:table;}
+.row::after{clear:both;}
+.col-xs-2,.col-sm-3,.col-md-3,.col-lg-3,.col-sm-9,.col-md-9,.col-lg-9,.col-xs-10{position:relative;min-height:1px;padding-left:1.2rem;padding-right:1.2rem;}
+.col-xs-2,.col-xs-10{float:left;}
+.col-xs-2{width:16.6666666667%;}
+.col-xs-10{width:83.3333333333%;}
+@media (min-width: 650px){
+.col-sm-3,.col-sm-9{float:left;}
+.col-sm-3{width:25%;}
+.col-sm-9{width:75%;}
+}
+@media (min-width: 992px){
+.col-md-3,.col-md-9{float:left;}
+.col-md-3{width:25%;}
+.col-md-9{width:75%;}
+}
+@media (min-width: 1200px){
+.col-lg-3,.col-lg-9{float:left;}
+.col-lg-3{width:25%;}
+.col-lg-9{width:75%;}
+}
+.remove-right-gutter{padding-right:0;}
+.img-responsive{max-width:100%;height:auto;}
+.inline-list{padding-left:0;list-style:none;margin-left:-1.2rem;margin-bottom:0.375em;}
+.inline-list>*{display:inline-block;padding-left:1.2rem;padding-right:1.2rem;margin-bottom:0.375em;}
+.btn{padding:0.6rem 1.2rem;font-size:1em;line-height:1.5;border-radius:3px;display:inline-block;cursor:pointer;user-select:none;margin-bottom:0;background-image:none;border:0 solid transparent;border-bottom-width:0px;font-weight:400;text-align:center;vertical-align:middle;transition:all 0.3s ease;}
+.btn:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
+.btn:hover,.btn:focus{text-decoration:none;}
+.btn:hover,.btn:active{outline:none;}
+.btn:active{border:0px solid transparent;background-clip:padding-box;}
+.btn-block{display:block;width:100%;}
+.btn-outline{color:#008CC9;background-color:transparent;border:1px solid currentColor;}
+.btn-outline:hover{color:#00577d;}
+.btn-outline:active{color:black;}
+.btn-outline:hover,.btn-outline:focus,.btn-outline:active{border:1px solid #00577d;background-color:rgba(0,0,0,0.02);color:#00577d;}
+.btn-outline:active{background-color:#00577d;color:white;}
+.btn-outline:hover{box-shadow:inset 0 0 0 1px #00577d;}
+.u-text-color-navy{color:#00447B!important;}
+.u-vertical-padding-0{padding-top:0rem!important;padding-bottom:0rem!important;}
+[class*="u-vertical-padding-"]::before,[class*="u-vertical-padding-"]::after{content:'';display:block;}
+[class*="u-vertical-padding-"]::before{margin-top:-10rem;margin-bottom:10rem;}
+[class*="u-vertical-padding-"]::after{margin-top:10rem;margin-bottom:-10rem;}
+.u-vertical-margin-0{margin-top:0rem!important;margin-bottom:0rem!important;}
+}
+/*! CSS Used fontfaces */
+@font-face{font-family:'Circular';src:url(https://c4c.jakotako.com/profiles/assets/avvo_ui/circular/circular_medium-2911106fb594d3222f19cae6fef91e2aff06ecf8ddae49454f46d71fcd19ed51.woff) format("woff");font-weight:500;font-style:normal;font-display:swap;}
+@font-face{font-family:'Circular';src:url(https://c4c.jakotako.com/profiles/assets/avvo_ui/circular/circular_medium_italic-6b9725079b42c7e72ad352af122d4164d9a8edc484889449bdd6588c6b6d95b7.woff) format("woff");font-weight:500;font-style:italic;font-display:swap;}
+@font-face{font-family:'Circular';src:url(https://c4c.jakotako.com/profiles/assets/avvo_ui/circular/circular_bold-6062f04b7c2d054d964f3e6619918e6088589b6b1eba070d47b9f100d79cc522.woff) format("woff");font-weight:700;font-style:normal;font-display:swap;}
+@font-face{font-family:'Circular';src:url(https://c4c.jakotako.com/profiles/assets/avvo_ui/circular/circular_bold_italic-3c26f47d80680be7a395383eeadc92d245e96b30715d561b01b4126e22d24f4a.woff) format("woff");font-weight:700;font-style:italic;font-display:swap;}
