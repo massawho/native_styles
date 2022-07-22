@@ -47,7 +47,7 @@ GEM
       multi_json (~> 1.10)
     socksify (1.7.1)
     thread_safe (0.3.6)
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     wasabi (3.5.0)
       httpi (~> 2.0)
